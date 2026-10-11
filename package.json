@@ -1,0 +1,16 @@
+{
+  "name": "@red-cup-engineering/markdown-historical-full-text-index-receiving",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Explicit historical full-text-index receiving assays: current injected-reader contract and two prior SQL generations, excluded from native runtime/default tests.",
+  "scripts": {
+    "test:legacy-sql": "node --test original/test/full-text-index.test.mjs",
+    "test:legacy-sql:prior-76c7539f": "node --test prior-76c7539f/test/full-text-index.test.mjs",
+    "test:legacy-sql:prior-18f32f3a": "node --test prior-18f32f3a/test/full-text-index.test.mjs"
+  },
+  "dependencies": {
+    "@red-cup-engineering/semiotic-eavt-services-section": "workspace:*",
+    "@red-cup-engineering/computer-system-engine": "workspace:*"
+  }
+}
