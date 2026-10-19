@@ -12,5 +12,9 @@
   "dependencies": {
     "@red-cup-engineering/semiotic-eavt-services-section": "workspace:*",
     "@red-cup-engineering/computer-system-engine": "workspace:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/markdown-historical-full-text-index-receiving.git"
   }
 }
