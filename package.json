@@ -16,5 +16,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/markdown-historical-full-text-index-receiving.git"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
