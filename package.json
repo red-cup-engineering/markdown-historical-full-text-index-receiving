@@ -10,7 +10,7 @@
     "test:legacy-sql:prior-18f32f3a": "node --test prior-18f32f3a/test/full-text-index.test.mjs"
   },
   "dependencies": {
-    "@red-cup-engineering/semiotic-eavt-services-section": "workspace:*",
+    "@red-cup-engineering/semiotic-eavt-engineering-services-section": "workspace:*",
     "@red-cup-engineering/computer-system-engine": "workspace:*"
   },
   "repository": {
