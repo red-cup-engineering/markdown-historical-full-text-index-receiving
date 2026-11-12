@@ -1,5 +1,5 @@
 import { closeSync, openSync, readSync } from "node:fs";
-import { readLegacySqlite } from "@red-cup-engineering/computer-system-engine/legacy-sqlite-reader";
+import { readLegacySqlite } from "@red-cup-engineering/computer-engine/legacy-sqlite-reader";
 
 const SQLITE_HEADER = "SQLite format 3\u0000";
 
