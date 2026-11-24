@@ -5,7 +5,6 @@
   "type": "module",
   "description": "Explicit historical full-text-index receiving assays: current injected-reader contract and two prior SQL generations, excluded from native runtime/default tests.",
   "dependencies": {
-    "@red-cup-engineering/semiotic-eavt-services-section": "workspace:*",
     "@red-cup-engineering/computer-engine": "workspace:*",
     "@red-cup-engineering/semiotic-eavt-engineering-services-section": "^0.6.0"
   },
